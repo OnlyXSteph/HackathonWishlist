@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="urlET">www.example.com</string>
+    <string name="nameET">Product Name</string>
+    <string name="priceET">$2.99</string>
+    <string name="addBT">Add Wish</string>
+</resources>
